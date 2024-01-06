@@ -1,0 +1,7 @@
+ipykernel
+numpy
+matplotlib
+pandas
+nltk
+tensorflow
+seaborn
