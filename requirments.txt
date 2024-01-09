@@ -5,3 +5,6 @@ pandas
 nltk
 tensorflow
 seaborn
+scikit-learn
+os
+pathlib
