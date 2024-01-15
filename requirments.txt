@@ -1,11 +1,11 @@
-ipykernel
+pandas
 numpy
 matplotlib
-pandas
+seaborn
 nltk
 tensorflow
-seaborn
 scikit-learn
-os
 pathlib
-tabulate
+ipykernel
+os
+
